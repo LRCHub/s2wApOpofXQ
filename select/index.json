@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "然らば",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-13T12:10:21.559983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "然らば",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/01_然らば_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "然らば",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/02_然らば_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "然らば - Saraba",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/03_然らば_-_Saraba_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "然らば",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_然らば_マカロニえんぴつ.txt"
+    }
+  ]
+}
